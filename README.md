@@ -62,7 +62,7 @@ After “;zend_extension”, add the zend_extension setting from the xdebug.org 
 zend_extension=/Applications/XAMPP/xamppfiles/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so
 ```
 
-##### 7. Additionally, add these xdebug configuration settings in php.ini after the zend_extension setting
+##### 8. Additionally, add these xdebug configuration settings in php.ini after the zend_extension setting
 
 ```
 xdebug.remote_enable=1
